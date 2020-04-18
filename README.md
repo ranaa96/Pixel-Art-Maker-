@@ -15,7 +15,7 @@ To get started, open `designs.js` and start building out the app's functionality
 ![task](https://user-images.githubusercontent.com/44041416/66952038-0c910980-f05c-11e9-8736-2ccb44b11e8f.PNG)
 
 
-##Preview
+## Preview
 https://ranaa96.github.io/Pixel-Art-Maker-/ 
 
 
